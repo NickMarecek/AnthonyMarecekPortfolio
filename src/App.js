@@ -6,6 +6,7 @@ import Home from "./pages";
 function App() {
 	return (
 		<>
+			<title>Josef Anthony</title>
 			<Home />
 		</>
 	);
