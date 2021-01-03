@@ -90,7 +90,7 @@ const Navbar = ({ toggle }) => {
 					</NavMenu>
 					<NavBtn>
 						<NavBtnLink
-							href="mailto:anthonymarecek@gmail.com"
+							href="mailto:josefmarecek02@gmail.com"
 							target="_blank"
 							rel="noopener noreferrer"
 						>

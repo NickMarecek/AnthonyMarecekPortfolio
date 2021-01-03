@@ -64,7 +64,13 @@ const Sidebar = ({ isOpen, toggle }) => {
 					</SidebarLink>
 				</SidebarMenu>
 				<SideBtnWrap>
-					<SidebarRoute to="/contact">Contact Me</SidebarRoute>
+					<SidebarRoute
+						href="mailto:josefmarecek02@gmail.com"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
+						Contact Me
+					</SidebarRoute>
 				</SideBtnWrap>
 			</SidebarWrapper>
 		</SidebarContainer>
