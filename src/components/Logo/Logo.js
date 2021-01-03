@@ -7,8 +7,8 @@ class Logo extends Component {
 			<React.Fragment>
 				<div className="container">
 					<p className="glitch">
-						<span aria-hidden="true">Anthony Marecek</span>Anthony Marecek
-						<span aria-hidden="true">Anthony Marecek</span>
+						<span aria-hidden="true">Josef Marecek</span>Josef Marecek
+						<span aria-hidden="true">Josef Marecek</span>
 					</p>
 				</div>
 			</React.Fragment>

@@ -7,8 +7,8 @@ const Logo = () => {
 		<>
 			<GlitchContainer>
 				<Glitch>
-					<span aria-hidden="true">Anthony Marecek</span>Anthony Marecek
-					<span aria-hidden="true">Anthony Marecek</span>
+					<span aria-hidden="true">Josef Marecek</span>Josef Marecek
+					<span aria-hidden="true">Josef Marecek</span>
 				</Glitch>
 			</GlitchContainer>
 		</>
