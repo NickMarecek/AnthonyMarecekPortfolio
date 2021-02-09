@@ -13,6 +13,7 @@ import {
 	modalObjFour,
 	modalObjFive,
 	modalObjSix,
+	modalObjSeven,
 } from "./modal/data";
 
 const AchievementsSection = () => {
@@ -34,7 +35,7 @@ const AchievementsSection = () => {
 							setModalType(modalObjOne);
 						}}
 					>
-						Semi-Finalist in TD Case Competition
+						Finalist in Laurier Enactus Problem Pitch
 					</ModalButton>
 					<ModalButton
 						onClick={() => {
@@ -42,7 +43,7 @@ const AchievementsSection = () => {
 							setModalType(modalObjTwo);
 						}}
 					>
-						Contract film maker for Clarendon Trading Company
+						Semi-Finalist in TD Case Competition
 					</ModalButton>
 					<ModalButton
 						onClick={() => {
@@ -50,7 +51,7 @@ const AchievementsSection = () => {
 							setModalType(modalObjThree);
 						}}
 					>
-						Volunteer at St John's Chrysostom Church
+						Contract film maker for Clarendon Trading Company
 					</ModalButton>
 					<ModalButton
 						onClick={() => {
@@ -58,7 +59,7 @@ const AchievementsSection = () => {
 							setModalType(modalObjFour);
 						}}
 					>
-						Wilfrid Laurier University Scholarship
+						Volunteer at St John's Chrysostom Church
 					</ModalButton>
 					<ModalButton
 						onClick={() => {
@@ -66,12 +67,20 @@ const AchievementsSection = () => {
 							setModalType(modalObjFive);
 						}}
 					>
-						Academic Distinction
+						Wilfrid Laurier University Scholarship
 					</ModalButton>
 					<ModalButton
 						onClick={() => {
 							openModal();
 							setModalType(modalObjSix);
+						}}
+					>
+						Academic Distinction
+					</ModalButton>
+					<ModalButton
+						onClick={() => {
+							openModal();
+							setModalType(modalObjSeven);
 						}}
 					>
 						Ultimate Frisbee Team Captain
