@@ -18,19 +18,25 @@ function ProjectsSection() {
 					<CardsWrapper>
 						<CardsItems>
 							<Card
+								img={require("../../images/projects/clarendon-1.webp")}
+								text="The boutique EP.1"
+								label="Video"
+								link="https://www.instagram.com/p/CC6tZtGgBWv/"
+							/>
+							<Card
 								img={require("../../images/projects/enactus.jpg")}
 								text="Enactus Problem Pitch - Economic Inequality & COVID 19"
 								label="Video"
 								link="https://youtu.be/5O_ShpvpCqE"
 							/>
+						</CardsItems>
+						<CardsItems>
 							<Card
 								img={require("../../images/projects/img1.JPG")}
 								text="Superwoman: A Mother's Life"
 								label="Video"
 								link="https://www.youtube.com/watch?v=wYLRvNm7tvo&ab_channel=AnthonyMarecek"
 							/>
-						</CardsItems>
-						<CardsItems>
 							<Card
 								img={require("../../images/projects/img2.jpg")}
 								text="TORONTO November 15th, 2019"
