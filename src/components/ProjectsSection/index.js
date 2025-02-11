@@ -32,6 +32,12 @@ function ProjectsSection() {
 						</CardsItems>
 						<CardsItems>
 							<Card
+								img={require("../../images/projects/AArotated.jpg")}
+								text="Original Band Portfolio: Avro Arrows"
+								label="Music"
+								link="https://www.instagram.com/avroarrowsband/"
+							/>
+							<Card
 								img={require("../../images/projects/img1.JPG")}
 								text="Superwoman: A Mother's Life"
 								label="Video"
@@ -48,12 +54,6 @@ function ProjectsSection() {
 								text="A New Chapter: A Highschool Graduates View of COVID-19"
 								label="Video"
 								link="https://youtu.be/aK4AYs1_SUg"
-							/>
-							<Card
-								img={require("../../images/projects/img4.JPG")}
-								text="April Ambivalence: The art of B-roll"
-								label="Video"
-								link="https://www.youtube.com/watch?v=3sBznFsqiA8&ab_channel=AnthonyMarecek"
 							/>
 						</CardsItems>
 						<CardsItems>
@@ -73,12 +73,20 @@ function ProjectsSection() {
 								img={require("../../images/projects/img3.JPG")}
 								text="Original Music Project"
 								label="Music"
-								link="https://soundcloud.com/anthony-marecek/demons-in-your-bed"
+								link="https://linktr.ee/carryon.music?fbclid=PAZXh0bgNhZW0CMTEAAaYfpLQBG0Y8A
+								JPunUJXfqbDsFTzcS9tRYktiPeoCCnh-jZd9WTQLEDnX-Y_aem_Vwp5aB36v2j_
+								_5kSxLrehA"
 							/>
 							<Card
 								img={require("../../images/projects/img5.JPG")}
 								text="Value Vintage: Clothing Restoration and Repurposing"
 								label="Account"
+							/>
+							<Card
+								img={require("../../images/projects/img4.JPG")}
+								text="April Ambivalence: The art of B-roll"
+								label="Video"
+								link="https://www.youtube.com/watch?v=3sBznFsqiA8&ab_channel=AnthonyMarecek"
 							/>
 						</CardsItems>
 					</CardsWrapper>

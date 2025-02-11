@@ -27,7 +27,7 @@ const HeroSection = () => {
 			</HeroBg>
 			<HeroContent>
 				<HeroH1>Forward Thinking. Design Focused.</HeroH1>
-				<HeroP>Lets create something amazing</HeroP>
+				<HeroP>Let's create something amazing</HeroP>
 				<HeroBtnWrapper>
 					<Button
 						to="about"

@@ -51,7 +51,7 @@ const AchievementsSection = () => {
 							setModalType(modalObjThree);
 						}}
 					>
-						Contract film maker for Clarendon Trading Company
+						Contract filmmaker for Clarendon Trading Company
 					</ModalButton>
 					<ModalButton
 						onClick={() => {
@@ -59,7 +59,7 @@ const AchievementsSection = () => {
 							setModalType(modalObjFour);
 						}}
 					>
-						Volunteer at St John's Chrysostom Church
+						Graphic Designer & VP of Marketing for Laurier Economics Club
 					</ModalButton>
 					<ModalButton
 						onClick={() => {
@@ -76,14 +76,6 @@ const AchievementsSection = () => {
 						}}
 					>
 						Academic Distinction
-					</ModalButton>
-					<ModalButton
-						onClick={() => {
-							openModal();
-							setModalType(modalObjSeven);
-						}}
-					>
-						Ultimate Frisbee Team Captain
 					</ModalButton>
 				</ModalGrid>
 				<Modal
