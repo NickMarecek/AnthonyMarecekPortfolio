@@ -19,9 +19,9 @@ function ProjectsSection() {
 						<CardsItems>
 							<Card
 								img={require("../../images/projects/clarendon-1.webp")}
-								text="The boutique EP.1"
+								text="Clarendon Trading Co. Portfolio"
 								label="Video"
-								link="https://www.instagram.com/p/CC6tZtGgBWv/"
+								link="https://drive.google.com/drive/folders/12dDvDcNc1-JfYwuwTiOjV_K31XdN1cy5?usp=sharing"
 							/>
 							<Card
 								img={require("../../images/projects/enactus.jpg")}
